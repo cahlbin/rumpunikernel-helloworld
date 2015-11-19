@@ -1,0 +1,6 @@
+[submodule "rumprun"]
+	path = rumprun
+	url = http://repo.rumpkernel.org/rumprun
+[submodule "xen"]
+	path = xen
+	url = git://xenbits.xen.org/xen.git
